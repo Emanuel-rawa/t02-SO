@@ -1,0 +1,4 @@
+- [ ] Adicionar mais trens na interface
+- [ ] Configurar Mutexes
+- [ ] Controle de Deadlocks
+- [ ] Execução automática
